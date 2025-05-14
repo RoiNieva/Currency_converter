@@ -18,9 +18,6 @@
     <ClCompile Include="CC(test 2).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CurrencyConverter.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="USD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

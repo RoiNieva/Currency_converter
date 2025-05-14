@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CC(test 2).cpp" />
-    <ClCompile Include="CurrencyConverter.cpp" />
     <ClCompile Include="EUR.cpp" />
     <ClCompile Include="JPY.cpp" />
     <ClCompile Include="PHP.cpp" />

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="EUR">
-    <Position X="1.5" Y="2" Width="1.5" />
+    <Position X="2.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>IAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>EUR.h</FileName>
@@ -28,8 +28,8 @@
       <FileName>USD.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CurrencyConverter" Collapsed="true">
-    <Position X="5.25" Y="0.75" Width="1.5" />
+  <Class Name="CurrencyConverter">
+    <Position X="5.25" Y="0.75" Width="2" />
     <TypeIdentifier>
       <HashCode>IAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CurrencyConverter.h</FileName>
