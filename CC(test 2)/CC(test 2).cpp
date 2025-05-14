@@ -18,7 +18,7 @@ int main() {
    PHP* php = new PHP();
 
     double amount ;
-    std::cout << " Enter any Amount (Base amount is php)" << std::endl;
+    std::cout << " Enter any Amount (Base amount is php) number only" << std::endl;
     std::cin >> amount;
 
     std::cout << amount << " PHP = " << usd->convert(amount) << " " << usd->getCurrencyName() << std::endl;
