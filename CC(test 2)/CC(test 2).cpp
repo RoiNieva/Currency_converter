@@ -9,7 +9,7 @@
 #include "PHP.h"
 
 
-//plllll
+//pll
 int main() {
    USD* usd = new USD();
     EUR* eur = new EUR();
