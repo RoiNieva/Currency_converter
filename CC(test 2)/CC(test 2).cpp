@@ -23,7 +23,7 @@ int main() {
 
     std::cout << amount << " PHP = " << usd->convert(amount) << " " << usd->getCurrencyName() << std::endl;
     std::cout << amount << " PHP = " << eur->convert(amount) << " " << eur->getCurrencyName() << std::endl;
-    std::cout << amount << "PHP = " << jpy->convert(amount) << " " << jpy->getCurrencyName() << std::endl;
+    std::cout << amount << " PHP = " << jpy->convert(amount) << " " << jpy->getCurrencyName() << std::endl;
     std::cout << amount << " PHP = " << php->convert(amount) << " " << php->getCurrencyName() << std::endl;
 
     delete usd;
