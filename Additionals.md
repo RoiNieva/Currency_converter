@@ -1,2 +1,2 @@
-design pattern used: Singleton Design Pattern	
-sequence diagram tool used: SequenceDiagram.org
+//Design pattern used: Singleton Design Pattern
+//Sequence diagram tool used: SequenceDiagram.org
